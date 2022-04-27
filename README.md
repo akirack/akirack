@@ -8,17 +8,25 @@
 - ⚡ Fun fact: Skyrim é melhor que The Witcher 3
 
 
-### Ferramentas e Tecnologias
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height="60" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="60" height="60" />
-          
+### Ferramentas
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC&labelColor=333333)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&labelColor=333333)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&labelColor=333333)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash&labelColor=333333)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&labelColor=333333)
                 
 ### Estou aprendendo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
-   
+![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=004af7&labelColor=333333)
+![Cpp](https://img.shields.io/badge/C%2B%2B-333333?style=flat&logo=c%2B%2B&logoColor=004af7&labelColor=333333)
+![CSharp](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=048522&labelColor=333333)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=4287f5&labelColor=333333)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&labelColor=333333)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&labelColor=333333)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&labelColor=333333)
+![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=42578a&labelColor=333333)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white&labelColor=333333)
+ 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akirack&layout=compact&langs_count=7&theme=dracula"/>
