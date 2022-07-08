@@ -3,7 +3,6 @@
 
 - 🌱 Aprendendo novas tecnologias com foco em Full Stack 
 - 🎓 Graduado em Ciências e Tecnologia e Engenharia Elétrica ^^
-- 🔭 Buscando emprego como desenvolvedor ^^
 - 👯 Procurando projetos na area de estatistica para colaborar
 - ⚡ Fun fact: Skyrim é melhor que The Witcher 3
 
@@ -15,15 +14,28 @@
 ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnubash&labelColor=333333)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&labelColor=333333)
                 
-### Estou aprendendo
+### Linguagens
 
 ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c&logoColor=004af7&labelColor=333333)
 ![Cpp](https://img.shields.io/badge/C%2B%2B-333333?style=flat&logo=c%2B%2B&logoColor=004af7&labelColor=333333)
 ![CSharp](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp&logoColor=048522&labelColor=333333)
+![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=048522&labelColor=333333)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=4287f5&labelColor=333333)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5&labelColor=333333)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6&labelColor=333333)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&labelColor=333333)
+ 
+ ### Frameworks
+ 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=flat&logo=bootstrap&logoColor=white)
+![Jquery](https://img.shields.io/badge/jQuery-333333?style=flat&logo=jquery&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-333333?style=flat&logo=.net&logoColor=white)
+
+ ### Banco de Dados
+ 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-333333?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-333333?style=flat&logo=sqlite&logoColor=42578a&labelColor=333333)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white&labelColor=333333)
  
