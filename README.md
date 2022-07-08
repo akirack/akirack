@@ -2,7 +2,7 @@
 ### Meu nome é Akira Couzack e nesse momento vocês estão no meu perfil do GitHub :smiling_face_with_three_hearts:
 
 - 🌱 Aprendendo novas tecnologias com foco em Full Stack 
-- 🎓 Graduado em Ciências e Tecnologia e Engenharia Elétrica ^^
+- 🎓 Graduado em Ciência e Tecnologia e Engenharia Elétrica ^^
 - 👯 Procurando projetos na area de estatistica para colaborar
 - ⚡ Fun fact: Skyrim é melhor que The Witcher 3
 
