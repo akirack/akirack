@@ -32,6 +32,8 @@
 ![Node JS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-333333?style=flat&logo=.net&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-333333?style=flat&logo=Hibernate&logoColor=white)
+
 
  ### Banco de Dados
  
